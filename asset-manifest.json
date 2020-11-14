@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GobezLij-React-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/GobezLij-React-app/static/js/main.5d2e3a5b.chunk.js",
+    "main.js.map": "/GobezLij-React-app/static/js/main.5d2e3a5b.chunk.js.map",
+    "runtime-main.js": "/GobezLij-React-app/static/js/runtime-main.d6b533ff.js",
+    "runtime-main.js.map": "/GobezLij-React-app/static/js/runtime-main.d6b533ff.js.map",
+    "static/js/2.9eeca3bc.chunk.js": "/GobezLij-React-app/static/js/2.9eeca3bc.chunk.js",
+    "static/js/2.9eeca3bc.chunk.js.map": "/GobezLij-React-app/static/js/2.9eeca3bc.chunk.js.map",
+    "static/js/3.65cf9328.chunk.js": "/GobezLij-React-app/static/js/3.65cf9328.chunk.js",
+    "static/js/3.65cf9328.chunk.js.map": "/GobezLij-React-app/static/js/3.65cf9328.chunk.js.map",
+    "index.html": "/GobezLij-React-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/GobezLij-React-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9eeca3bc.chunk.js.LICENSE.txt": "/GobezLij-React-app/static/js/2.9eeca3bc.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/GobezLij-React-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6b533ff.js",
+    "static/js/2.9eeca3bc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5d2e3a5b.chunk.js"
+  ]
+}
